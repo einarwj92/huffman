@@ -1,0 +1,2 @@
+# huffman
+Forberedelse til eksamen
